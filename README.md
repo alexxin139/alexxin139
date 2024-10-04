@@ -13,6 +13,10 @@
 📌我的action小贴士
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Openfan-Alex)
 (别看了，我都看不下去😂)
+
+😉没人比我会赛博修仙
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Openfan-Alex)
+
 <!---
 alexxin139/alexxin139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
