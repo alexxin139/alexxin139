@@ -16,6 +16,9 @@
 
 😉没人比我会赛博修仙
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Openfan-Alex)
+👥访客量
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 <!---
 alexxin139/alexxin139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
