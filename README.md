@@ -3,8 +3,8 @@
 - 🌱 正在非常currently的学习 ...
 - 💞️ 正在Fanbook和友商抢生意
 - 📫 如需联系我,Email:alex_openfan@outlook.com
-- 😄 爱你呦 ...
 - ⚡ 我从不跑路 ...
+
 我的github各参数:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Openfan-Alex)
 我常用的语言:
