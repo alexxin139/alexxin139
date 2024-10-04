@@ -19,7 +19,7 @@
 👥访客量
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines你好=First+line+of+text;Second+line+of+text)
 <!---
 alexxin139/alexxin139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
