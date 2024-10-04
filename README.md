@@ -1,4 +1,4 @@
-- 👋 Hi, 我是Alex
+- 👋 Hi, 我是Openfan的Alex
 - 👀 目前了解vue,熟练Java,精通python
 - 🌱 正在非常currently的学习 ...
 - 💞️ 正在Fanbook和友商抢生意
@@ -6,6 +6,7 @@
 
 ⚙️我的github各参数
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Openfan-Alex)
+
 🖋️我常用的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Openfan-Alex)
 
