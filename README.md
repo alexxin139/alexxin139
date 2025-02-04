@@ -13,9 +13,9 @@
 📌我的action小贴士
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Openfan-Alex)
 (别看了，我都看不下去😂)
-61.147.247.27:10050
-administrator
-svttNVZP9908
+2667.e5-qhxn.icu:65500
+ser564487404221
+wmWt6uydMLXg
 😉没人比我会赛博修仙
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Openfan-Alex)
 
